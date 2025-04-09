@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ighor Barbosa!
 
-I'm a passionate Information Systems student and software development intern. I love building scalable and maintainable applications using modern web and mobile technologies. I'm currently focused on full-stack development and cloud-based solutions.
+I am a passionate Information Systems student. I currently work as a software developer. I love building scalable and maintainable applications using modern web and mobile technologies. Currently, I am focused on full-stack development and cloud-based solutions.
 
 ---
 
