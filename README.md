@@ -1,56 +1,76 @@
-# 👋 Hello, I'm Ighor Barbosa!
+# 👋 Hey, I'm Ighor Barbosa
 
-I am a passionate Information Systems student. I currently work as a software developer. I love building scalable and maintainable applications using modern web and mobile technologies. Currently, I am focused on full-stack development and cloud-based solutions.
-
----
-
-## 🧠 Main Tech Stack
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql&logoColor=white)
+Full-stack developer focused on building **scalable, maintainable, and production-ready applications**.
+Currently working with modern web and mobile stacks, with a strong interest in **AI integrations and automation workflows**.
 
 ---
 
-### 💻 Web Development
+## 🚀 What I Do
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-### 📱 Mobile Development
-
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled--Components-db7093?style=flat&logo=styled-components&logoColor=white)
+* Build full-stack applications using **Next.js + Node.js**
+* Develop mobile apps with **React Native + Expo**
+* Design systems focused on **performance and scalability**
+* Create automation workflows and integrate **AI into real products**
 
 ---
 
-### ☁️ Back-end / Cloud
+## 🧠 Tech Stack
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+### 💻 Frontend
+
+* React
+* Next.js (App Router)
+* Tailwind CSS
+
+### 📱 Mobile
+
+* React Native
+* Expo
+
+### ⚙️ Backend
+
+* Node.js
+* TypeScript
+* REST APIs & automation services
+
+### 🗄️ Database / Cloud
+
+* SQL
+* Firebase
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Tools & Workflow
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+* Git & GitHub (version control)
+* VS Code (main IDE)
+* Docker (local environments)
+* Focus on clean architecture and maintainable code
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ighor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighorpb&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ighorpb&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighorpb\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ighorpb\&layout=compact\&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with me
+## 🎯 Current Focus
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
+* AI-powered applications
+* Automation systems
+* Scalable SaaS architectures
+
+---
+
+## 🌐 Connect
+
+* LinkedIn: https://www.linkedin.com/in/seu-usuario/
+
+---
+
+## ⚡ Philosophy
+
+> Build simple. Scale when needed. Automate everything possible.
