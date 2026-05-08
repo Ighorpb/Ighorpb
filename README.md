@@ -49,25 +49,11 @@ Currently working with modern web and mobile stacks, with a strong interest in *
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ighorpb\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ighorpb\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🎯 Current Focus
 
 * AI-powered applications
 * Automation systems
 * Scalable SaaS architectures
-
----
-
-## 🌐 Connect
-
-* LinkedIn: https://www.linkedin.com/in/seu-usuario/
 
 ---
 
