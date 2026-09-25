@@ -1,59 +1,50 @@
 # 👋 Hey, I'm Ighor Barbosa
 
-Full-stack developer focused on building **scalable, maintainable, and production-ready applications**.
-Currently working with modern web and mobile stacks, with a strong interest in **AI integrations and automation workflows**.
+Full-stack developer building web, mobile, and AI-powered applications.
+
+I work across the stack — from frontend experiences to backend architecture,
+automation workflows, queues, integrations, and infrastructure.
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Work With
 
-* Build full-stack applications using **Next.js + Node.js**
-* Develop mobile apps with **React Native + Expo**
-* Design systems focused on **performance and scalability**
-* Create automation workflows and integrate **AI into real products**
+**Frontend**
+React · Next.js · Nuxt · Tailwind CSS
 
----
+**Mobile**
+React Native · Expo
 
-## 🧠 Tech Stack
+**Backend**
+Node.js · TypeScript · NestJS · Fastify
 
-### 💻 Frontend
+**Data & Infrastructure**
+PostgreSQL · Redis · Prisma · Docker · AWS
 
-* React
-* Next.js (App Router)
-* Tailwind CSS
-
-### 📱 Mobile
-
-* React Native
-* Expo
-
-### ⚙️ Backend
-
-* Node.js
-* TypeScript
-* REST APIs & automation services
-
-### 🗄️ Database / Cloud
-
-* SQL
-* Firebase
+**AI & Automation**
+LLM integrations · AI agents · Workflow automation · APIs · WebSockets
 
 ---
 
-## 🛠️ Tools & Workflow
+## 🧠 Currently Building
 
-* Git & GitHub (version control)
-* VS Code (main IDE)
-* Docker (local environments)
-* Focus on clean architecture and maintainable code
+### [ARO](https://github.com/Ighorpb/ARO)
+
+A local AI desktop assistant powered by Claude, Whisper and Electron.
+
+ARO combines voice interaction, persistent memory, desktop awareness
+and automation into an assistant that runs directly on your computer.
+
+> 🚧 Currently under active development.
 
 ---
 
 ## 🎯 Current Focus
 
-* AI-powered applications
-* Automation systems
-* Scalable SaaS architectures
+- AI-powered products
+- Automation and agentic workflows
+- Backend architecture and distributed systems
+- Scalable SaaS applications
 
 ---
 
